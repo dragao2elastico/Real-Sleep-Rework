@@ -1,0 +1,13 @@
+DARK NOTE_asset by Chau Chi Cuong
+
+How to use:
+ - Can use NoteSplashes if you want
+ - Hurtnotes free (attack note, dodge note, Tricky say "T" lmao, ...)
+
+Advantages:
+ - Easyer for new players
+ - Able to catch up notes
+ - Can identify note by pixel
+ - Square notes, can custom note arrow skins with pic 154x154
+Disadvantage:
+ - Can't keep up when the note runs fast on speed over x2
