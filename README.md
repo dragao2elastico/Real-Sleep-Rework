@@ -12,4 +12,4 @@ Mudanças incluem:
 
 Nota: se quiser tirar o Health Drain é só deletar o arquivo dentro da subpasta de scripts
 
-<img src="">
+<img src="./images/">
