@@ -10,6 +10,9 @@ Mudanças incluem:
 * Ghost Trail
 * Health Drain (drenar vida)
 
-Nota: se quiser tirar o Health Drain é só deletar o arquivo dentro da subpasta de scripts
+> Nota: se quiser tirar o Health Drain é só deletar o arquivo dentro da subpasta de scripts
+<img src="./images/imagem_2023-06-07_080229830.png">
 
-<img src="./images/">
+Delete o arquivo `drainHealth.lua`
+
+<img src="./images/imagem_2023-06-07_080249094.png">
